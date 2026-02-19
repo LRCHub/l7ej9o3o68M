@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Do it！ Now",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-19T12:12:52.671996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "Mos Def feat. Busta Rhymes",
+      "has_synced": true,
+      "path": "select/01_Do_It_Now_Mos_Def_feat._Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It Now (feat. Busta Rhymes)",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/02_Do_It_Now_(feat._Busta_Rhymes)_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do It Now (Original Mix)",
+      "artist": "Dubtribe Sound System",
+      "has_synced": false,
+      "path": "select/03_Do_It_Now_(Original_Mix)_Dubtribe_Sound_System.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's Do It Now",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/04_Let's_Do_It_Now_Haddaway.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let’s Do It Now (Matrix radio edit)",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/05_Let’s_Do_It_Now_(Matrix_radio_edit)_Haddaway.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "Dubtribe Sound System",
+      "has_synced": true,
+      "path": "select/06_Do_It_Now_Dubtribe_Sound_System.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "The S.O.S. Band",
+      "has_synced": true,
+      "path": "select/07_Do_It_Now_The_S.O.S._Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/08_Do_It_Now_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "Busta Rhymes/Mos Def",
+      "has_synced": true,
+      "path": "select/09_Do_It_Now_Busta_Rhymes_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do It Now (feat. Hyro The Hero)",
+      "artist": "All Good Things feat. Hyro The Hero",
+      "has_synced": true,
+      "path": "select/10_Do_It_Now_(feat._Hyro_The_Hero)_All_Good_Things_feat._Hyro_The_Hero.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do It Now (feat. Hyro The Hero)",
+      "artist": "All Good Things",
+      "has_synced": true,
+      "path": "select/11_Do_It_Now_(feat._Hyro_The_Hero)_All_Good_Things.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do It Now Remember It Later",
+      "artist": "Sleeping With Sirens",
+      "has_synced": true,
+      "path": "select/12_Do_It_Now_Remember_It_Later_Sleeping_With_Sirens.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DO IT NOW! (HEY! HEY! HEY!)",
+      "artist": "lyrical school",
+      "has_synced": false,
+      "path": "select/13_DO_IT_NOW!_(HEY!_HEY!_HEY!)_lyrical_school.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "Konji feat. Kean Dysso",
+      "has_synced": true,
+      "path": "select/14_Do_It_Now_Konji_feat._Kean_Dysso.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do It Now",
+      "artist": "Konji/Kean Dysso",
+      "has_synced": true,
+      "path": "select/15_Do_It_Now_Konji_Kean_Dysso.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do it! Now",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_Do_it!_Now_モーニング娘。.txt"
+    }
+  ]
+}
